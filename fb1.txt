@@ -1,6 +1,7 @@
-feature branch line 1
+feature branch line 2
+fb2 line 3
 
-add line 3
-
+remove land3
 fb line 5
+after fb2 5
 add line 6
