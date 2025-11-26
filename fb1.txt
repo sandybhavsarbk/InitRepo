@@ -1,6 +1,6 @@
 feature branch line 2
-fb2 line 3
-
+Changed line fb2
+changed in fb2
 remove land3
 fb line 5
 after fb2 5
