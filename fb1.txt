@@ -1,6 +1,6 @@
 feature branch line 2
-fb2 line 3
-
+fb2 lien is changed for merge
+changed fb2
 remove land3
 fb line 5
 after fb2 5
