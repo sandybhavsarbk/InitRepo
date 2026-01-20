@@ -2,7 +2,7 @@ feature branch line 2
 Change from git
 changed from git
 changed in fb2
-fb2 lien is changed for inbetween merge check
+fb2 lien is changed for not merge check
 to see merge with check-merge branch
 changed fb2
 remove land3
